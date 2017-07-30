@@ -1,2 +1,2 @@
-# better-half
-This is a matrimonial portal.
+# TechFest
+This is an event management project.
