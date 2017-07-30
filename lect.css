@@ -1,0 +1,72 @@
+#pic1
+{
+	background-image: url("image/virtual.jpg");
+	opacity: 1;
+	height:650px;
+	width:1355px;
+	margin-top:-20px;
+	
+	}
+	
+		#EH
+{
+	background-image: url("image/internet.jpg");
+	opacity: 1;
+	height:650px;
+	width:1355px;
+	
+	
+	
+	}
+	#nl
+{
+	background-image: url("image/hacking.jpg");
+	opacity: 1;
+	height:650px;
+	width:1355px;
+	
+	
+	
+	}
+	#ai
+{
+	background-image: url("image/arti.jpg");
+	
+	height:650px;
+	width:1355px;
+	
+	
+	
+	}
+	
+
+
+
+#abc1
+{
+	height:550px;
+	width:900px;
+	background-color:white;
+	margin-top:-0px;
+	margin-left:150px;
+	 opacity: .5;
+	    filter:alpha(opacity=50);
+		
+		border-radius:10px;
+}
+#mar
+{
+	margin-top:-140px;
+	margin-left:670px;
+	opacity: 100px;
+	    filter:alpha(opacity=50);
+	 
+}
+
+
+
+#arraw
+{
+	margin-left:1180px;
+	margin-top:-350px;
+}

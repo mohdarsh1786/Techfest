@@ -1,0 +1,78 @@
+#arijeet
+{
+	opacity:;
+     filter:alpha(opacity=50);
+	background-image: url("image/arijit.jpg");
+	height:640px;
+	width:1340px;
+}
+
+
+
+#elli
+{
+	opacity:;
+     filter:alpha(opacity=50);
+	background-image: url("image/elli.jpg");
+	height:640px;
+	width:1340px;
+} 
+
+#demon
+{
+	opacity:;
+     filter:alpha(opacity=50);
+	background-image: url("image/demons.jpg");
+	height:640px;
+	width:1340px;
+} 
+
+
+#block1
+{
+	 opacity:.5;
+	 filter:alpha(opacity=50);
+	 background-color:white;
+	
+	 height:640;
+	 width:900;
+	 margin-left:200px;
+	 margin-top:-120px;
+}
+
+#block
+{
+	 opacity:.5;
+	 filter:alpha(opacity=50);
+	 background-color:white;
+	
+	 height:640;
+	 width:900;
+	 margin-left:200px;
+	 margin-top:-40px;
+}
+
+
+#br
+{
+	background-image:url("hellyeah/1a.gif");
+	   height:300;
+	   width:900;
+	   margin-top:40px;
+}
+
+#mg
+{
+	background-image:url("hellyeah/1a.gif");
+	   height:680;
+	   width:300;
+	   margin-left:300px;
+	   margin-top:-510px;
+}
+
+
+#arrow
+{
+	margin-left:1000px;
+	margin-top:-350px;
+}
